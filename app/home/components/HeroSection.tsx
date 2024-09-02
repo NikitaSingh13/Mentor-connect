@@ -7,13 +7,7 @@ const HeroSection = () => {
     <section className="relative bg-[#DAD7CD] text-[#344E41] min-h-screen flex flex-col justify-center items-center p-8 overflow-hidden">
       {/* Background Image */}
       <div className="absolute inset-0">
-        <Image
-          src="/images/hero-background.jpg" // Replace with your image path
-          alt="Hero Background"
-          layout="fill"
-          objectFit="cover"
-          className="absolute inset-0 w-full h-full object-cover"
-        />
+        {/* <Image/> */}
         <div className="absolute inset-0 bg-[#DAD7CD] opacity-80"></div>
       </div>
 
