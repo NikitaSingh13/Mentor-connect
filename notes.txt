@@ -1,0 +1,7 @@
+colour pallete: 
+            #DAD7CD: Light Beige
+            #A3B18A: Sage Green
+            #588157: Olive Green
+            #3A5A40: Forest Green
+            #344E41: Dark Olive Green
+
